@@ -5,5 +5,3 @@ Rarity and mutation drop tables are integrated.
 
 You can find a demo of this script here, since the game is unpublished.
 [Youtube Demo](https://www.youtube.com/watch?v=9Qj0bc0Joxc)
-
-Or you can find it on my [portfolio site:](cchaosdev.github.io)
